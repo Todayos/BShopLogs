@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bar-top{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+}
+.bar-name {
+    position: relative;
+    width: 20%;
+    height: 100%;
+    background-color: aqua;
+    font-size: 30px;
+    color: rgb(250, 77, 8);
+    text-align: center;
+    line-height: 100px;
+    float: left;
+}
+.location{
+    width: 50%;
+    height: 30px;
+    margin-left:20px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(250, 77, 8);
+    background-color: cadetblue;
+}
